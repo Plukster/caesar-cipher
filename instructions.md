@@ -15,4 +15,4 @@ Alice and Bob are bored during classes and want to exchange secret messages. The
 4. Preserve spaces and punctuation
 5. Support shift values from 0 to 25
 
-## Usage Examples
+
